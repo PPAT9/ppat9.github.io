@@ -1,0 +1,62 @@
+{
+    "types": {
+        "c:function": "function",
+        "c:member": "member",
+        "c:macro": "macro",
+        "c:type": "type",
+        "c:var": "variable",
+        "cpp:class": "class",
+        "cpp:union": "union",
+        "cpp:function": "function",
+        "cpp:member": "member",
+        "cpp:type": "type",
+        "cpp:concept": "concept",
+        "cpp:enum": "enum",
+        "cpp:enumerator": "enumerator",
+        "js:function": "function",
+        "js:method": "method",
+        "js:class": "class",
+        "js:data": "data",
+        "js:attribute": "attribute",
+        "js:module": "module",
+        "py:function": "function",
+        "py:data": "data",
+        "py:class": "class",
+        "py:exception": "exception",
+        "py:method": "method",
+        "py:classmethod": "class method",
+        "py:staticmethod": "static method",
+        "py:attribute": "attribute",
+        "py:module": "module",
+        "rst:directive": "directive",
+        "rst:directive:option": "directive-option",
+        "rst:role": "role",
+        "std:term": "glossary term",
+        "std:token": "grammar token",
+        "std:label": "reference label",
+        "std:envvar": "environment variable",
+        "std:cmdoption": "program option",
+        "std:doc": "document"
+    },
+    "titles": {
+        "How python code is executed.html": "How python code is executed",
+        "index.html": "Welcome to tectTutorial\u2019s documentation!",
+        "string.html": "Strings",
+        "variables and types.html": "variables and types",
+        "what is python really.html": "What is Python really?"
+    },
+    "paths": {
+        "How python code is executed.html": "How python code is executed.rst",
+        "index.html": "index.rst",
+        "string.html": "string.rst",
+        "variables and types.html": "variables and types.rst",
+        "what is python really.html": "what is python really.rst"
+    },
+    "pages": {
+        "How python code is executed.html": "How python code is executed",
+        "index.html": "index",
+        "string.html": "string",
+        "variables and types.html": "variables and types",
+        "what is python really.html": "what is python really"
+    }
+}
