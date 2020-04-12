@@ -39,24 +39,24 @@
         "std:doc": "document"
     },
     "titles": {
-        "How python code is executed.html": "How python code is executed",
         "index.html": "Welcome to tectTutorial\u2019s documentation!",
         "string.html": "Strings",
         "variables and types.html": "variables and types",
-        "what is python really.html": "What is Python really?"
+        "what is python really.html": "What is Python really?",
+        "How python code is executed.html": "How python code is executed"
     },
     "paths": {
-        "How python code is executed.html": "How python code is executed.rst",
         "index.html": "index.rst",
         "string.html": "string.rst",
         "variables and types.html": "variables and types.rst",
-        "what is python really.html": "what is python really.rst"
+        "what is python really.html": "what is python really.rst",
+        "How python code is executed.html": "How python code is executed.rst"
     },
     "pages": {
-        "How python code is executed.html": "How python code is executed",
         "index.html": "index",
         "string.html": "string",
         "variables and types.html": "variables and types",
-        "what is python really.html": "what is python really"
+        "what is python really.html": "what is python really",
+        "How python code is executed.html": "How python code is executed"
     }
 }
